@@ -2,7 +2,7 @@
 
 **Markdown** is a better way to write **HTML**, without all the complexities and ugliness that usually accompanies it.
 
-![The Markdown Mark](../assets/images/markdown.png)  
+![The Markdown Mark](https://paulhibbitts-glitch-docsify-open-publishing-starter-kit.glitch.me/assets/images/markdown.png)  
 _Figure 1: The Markdown Mark_
 
 Some of the key benefits are:
@@ -577,7 +577,7 @@ Images have a similar syntax to links but include a preceding exclamation point.
 ```
 ![Minion](https://octodex.github.com/images/minion.png)
 
-and using a local image (which also displays in Glitch):
+and using a local image:
 
 ```markdown
 ![Octocat](../assets/images/octocat.jpg)
