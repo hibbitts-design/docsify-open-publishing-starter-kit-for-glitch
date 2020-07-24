@@ -11,4 +11,4 @@
   - [Topic 1](advanced/adv-topic-1.md)
   - [Topic 2](advanced/adv-topic-2.md)
 - **Project Documentation**
-  - [ReadMe](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit/blob/master/README.md)
+  - [ReadMe](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit-for-glitch/blob/master/README.md)
