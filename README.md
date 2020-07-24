@@ -36,5 +36,5 @@ _Figure 1. Docsify Open Publishing Starter Kit for Glitch. Explore a demo at [do
 
 🙇‍Credits and Special Thanks
 ---
-[Glitch](https://glitch.com/)  
 [Docsify Themeable](https://github.com/jhildenbiddle/docsify-themeable)  
+[Glitch](https://glitch.com/)  
